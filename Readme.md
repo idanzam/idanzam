@@ -16,6 +16,6 @@ Entrepreneur and founder of POOL4EVER,<br>Microsoft Certified Systems Engineer (
 ![](https://github-contributor-stats.vercel.app/api?username=idanzam&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=idanzam&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=idanzam&icon=0&color=3)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
