@@ -1,5 +1,5 @@
 # 💫 About Me:
-Entrepreneur and Founder of Pool4Ever.com,<br>Microsoft Certified Systems Engineer (MCSE),<br>Full Stack Developer<br>L.L.B Bachelor of Laws.
+Entrepreneur and Founder of Pool4Ever.com,<br>Microsoft Certified Systems Engineer (MCSE),<br>Full Stack Developer,<br>L.L.B Bachelor of Laws.
 
 
 ## 🌐 Socials:
